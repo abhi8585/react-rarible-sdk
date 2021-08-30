@@ -15,7 +15,7 @@ import CollectionSale from './pages/collection-sale';
 import ItemCollection from './pages/item-collection';
 import ItemCollectionCreated from './pages/item-collection-created';
 import FileUpload from './pages/file-upload';
-
+import ShowError from './pages/error';
 
 // import Html404 from './pages/html404'
 
@@ -119,7 +119,7 @@ class App extends React.Component {
     // console.log(res)
     const element = '';
     if (!this.state.provider?.isMetaMask) {
-      return(<strong>Please install metamask to use the app</strong>)
+      return(<ShowError />)
       console.log("going in if")
     } else {
       console.log("going in else")

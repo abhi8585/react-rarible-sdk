@@ -4,56 +4,59 @@ import { toAddress, toBigNumber } from "@rarible/types";
 import { MODEL_DATA, HOT_COLLECTION, IMAGES_FOR_SALE, CREATED_IMAGES } from './constants';
 import ipfs from './ipfs';
 
-class ItemCollectionCreated extends React.Component {
-
+class ShowError extends React.Component {
+  
     constructor(props){
-        
-        super(props)
-        this.collectionId = this.props.match.params.id
-        console.log(this.collectionId)
-        this.lazyMint = this.lazyMint.bind(this)
-        this.itemData = CREATED_IMAGES[this.collectionId]
-        console.log(this.itemData)
+      super(props)      
+       
         
     }
 
 
 
-    async lazyMint(){
-      
-      
-      var jsonStr = JSON.stringify(this.itemData);
-      const buf = Buffer.from(jsonStr);
-      const itemHash = await ipfs.add(buf)
-      const uri = "ipfs/"+itemHash[0].hash
-     //  console.log(uri)
-     const item = await this.props.sdk.nft.mintLazy({
-       '@type': 'ERC721',
-       contract: toAddress('0x6ede7f3c26975aad32a475e1021d8f6f39c89d82'), // rinkeby default Rarible collection
-       uri: uri,
-       creators: [{ account: toAddress(this.props.accounts[0]), value: 10000 }],
-       royalties: [],
-     })
-     if (item) {
-       /**
-        * Get minted nft through SDK
-        */
-       const token = await this.props.sdk.apis.nftItem.getNftItemById({ itemId: item.id })
-       if (token) {
-         console.log(token)
-       }
-       else{
-         console.log("access denied")
-       }
-     }
- }
-
+    
     render() {
         
         return (
-            <div></div>
+            <div>
+              <main className="main">
+    <div className="container">
+      <div className="row row--grid">
+        {/* breadcrumb */}
+        <div className="col-12">
+          <ul className="breadcrumb">
+            {/* <li className="breadcrumb__item">
+              <a href="index.html">Home</a>
+            </li>
+            <li className="breadcrumb__item breadcrumb__item--active">
+              No MetaMask
+            </li> */}
+          </ul>
+        </div>
+        {/* end breadcrumb */}
+        {/* error */}
+        <div className="col-12">
+          <div className="page-404">
+            <div className="page-404__wrap">
+              <div className="page-404__content">
+                <h1 className="page-404__title">404</h1>
+                <p className="page-404__text">
+                  Install Metamask to use this Application
+                </p>
+                <a href="index.html" className="page-404__btn">
+                  
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* end error */}
+      </div>
+    </div>
+  </main>
+            </div>
         )
     }
 }
 
-export default ItemCollectionCreated;
+export default ShowError;
