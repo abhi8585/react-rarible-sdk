@@ -141,7 +141,7 @@ class App extends React.Component {
               <Route exact path='/collection/:id' render={(props) => (
                 <ModelCollection {...props} />
               )}/>
-              <Route exact path='/home' component={Home}/>
+              <Route exact path='/' component={Home}/>
               <Route exact path='/collection' component={ModelCollection}/>
               <Route exact path='/model' component={ModelInformation}/>
               <Route exact path='/sale' component={CollectionSale}/>
