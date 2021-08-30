@@ -156,9 +156,9 @@ class Home extends React.Component {
             </span>
             <h3 className="feature__title">Set up your wallet</h3>
             <p className="feature__text">
-              Once you’ve set up your wallet of choice, connect it to NFT
-              marketplace by clicking this link. <br />
-              <a href="signin.html">Connect my wallet</a>.
+              Once you’ve set up your wallet of choice, connect it to AIPALATE
+              marketplace and start collecting your collectibles. <br />
+              
             </p>
           </div>
         </div>

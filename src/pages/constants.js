@@ -173,7 +173,7 @@ export const MODEL_DATA = [{
         {
             'Name' : 'Tripping on Bokeh',
             'ImageUrl' : '',
-            'CollectionName' : 'Anime Character',
+            'CollectionName' : 'Abstract Images',
             'TokenType' : 'ERC-721',
             'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
             'ModelUsed': 'BIG GAN',
@@ -184,7 +184,7 @@ export const MODEL_DATA = [{
         {
             'Name' : 'Evening',
             'ImageUrl' : '',
-            'CollectionName' : 'Anime Character',
+            'CollectionName' : 'Abstract Images',
             'TokenType' : 'ERC-721',
             'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
             'ModelUsed': 'BIG GAN',
@@ -196,7 +196,7 @@ export const MODEL_DATA = [{
         {
             'Name' : 'Really wet window',
             'ImageUrl' : '',
-            'CollectionName' : 'Anime Character',
+            'CollectionName' : 'Abstract Images',
             'TokenType' : 'ERC-721',
             'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
             'ModelUsed': 'BIG GAN',
@@ -207,7 +207,7 @@ export const MODEL_DATA = [{
         {
             'Name' : 'Curls and Whisps',
             'ImageUrl' : '',
-            'CollectionName' : 'Anime Character',
+            'CollectionName' : 'Abstract Images',
             'TokenType' : 'ERC-721',
             'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
             'ModelUsed': 'BIG GAN',
@@ -219,7 +219,7 @@ export const MODEL_DATA = [{
         {
             'Name' : 'Abstract nothingness',
             'ImageUrl' : '',
-            'CollectionName' : 'Anime Character',
+            'CollectionName' : 'Abstract Images',
             'TokenType' : 'ERC-721',
             'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
             'ModelUsed': 'BIG GAN',
@@ -231,7 +231,7 @@ export const MODEL_DATA = [{
         {
             'Name' : '“Love” Smoke',
             'ImageUrl' : '',
-            'CollectionName' : 'Anime Character',
+            'CollectionName' : 'Abstract Images',
             'TokenType' : 'ERC-721',
             'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
             'ModelUsed': 'BIG GAN',
@@ -245,7 +245,7 @@ export const MODEL_DATA = [{
             {
                 'Name' : 'Night reflection',
                 'ImageUrl' : '',
-                'CollectionName' : 'Anime Character',
+                'CollectionName' : 'Abstract Images',
                 'TokenType' : 'ERC-721',
                 'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
                 'ModelUsed': 'BIG GAN',
@@ -258,7 +258,7 @@ export const MODEL_DATA = [{
             {
                 'Name' : 'Wave reflections',
                 'ImageUrl' : '',
-                'CollectionName' : 'Anime Character',
+                'CollectionName' : 'Abstract Images',
                 'TokenType' : 'ERC-721',
                 'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
                 'ModelUsed': 'BIG GAN',
@@ -271,7 +271,7 @@ export const MODEL_DATA = [{
             {
                 'Name' : 'Annecy Abstract',
                 'ImageUrl' : '',
-                'CollectionName' : 'Anime Character',
+                'CollectionName' : 'Abstract Images',
                 'TokenType' : 'ERC-721',
                 'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
                 'ModelUsed': 'BIG GAN',
@@ -284,7 +284,7 @@ export const MODEL_DATA = [{
             {
                 'Name' : 'Colors…',
                 'ImageUrl' : '',
-                'CollectionName' : 'Anime Character',
+                'CollectionName' : 'Abstract Images',
                 'TokenType' : 'ERC-721',
                 'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
                 'ModelUsed': 'BIG GAN',
@@ -297,7 +297,7 @@ export const MODEL_DATA = [{
             {
                 'Name' : 'CPH Architecture',
                 'ImageUrl' : '',
-                'CollectionName' : 'Anime Character',
+                'CollectionName' : 'Abstract Images',
                 'TokenType' : 'ERC-721',
                 'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
                 'ModelUsed': 'BIG GAN',
@@ -310,7 +310,7 @@ export const MODEL_DATA = [{
             {
                 'Name' : 'Assemblage',
                 'ImageUrl' : '',
-                'CollectionName' : 'Anime Character',
+                'CollectionName' : 'Abstract Images',
                 'TokenType' : 'ERC-721',
                 'Description' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art..',
                 'ModelUsed': 'BIG GAN',
@@ -334,7 +334,7 @@ export const MODEL_DATA = [{
     'ImageUrl' : "/assets/img/liveauction/fake_steps_20480.jpg",
     'CreatedImages' : [
         {
-            'Name' : 'Created Image 1',
+            'Name' : 'Yuuki (Japanese origin), meaning "gentle hope,"',
             'ImageUrl' : '',
             'CollectionName' : 'Anime Character',
             'TokenType' : 'ERC-721',
@@ -345,7 +345,7 @@ export const MODEL_DATA = [{
             "CollectiblePrice": "2 ETH"
         },
         {
-            'Name' : 'Created  Image 2',
+            'Name' : 'Yuri (Russian origin), meaning "farmer,',
             'ImageUrl' : '',
             'CollectionName' : 'Anime Character',
             'TokenType' : 'ERC-721',
@@ -357,7 +357,7 @@ export const MODEL_DATA = [{
             
         },
         {
-            'Name' : 'Created  Image 3',
+            'Name' : 'Yuichi (Japanese origin), meaning "kind one,"',
             'ImageUrl' : '',
             'CollectionName' : 'Anime Character',
             'TokenType' : 'ERC-721',
@@ -368,7 +368,7 @@ export const MODEL_DATA = [{
             "CollectiblePrice": "3 ETH"
         },
         {
-            'Name' : 'Created  Image 4',
+            'Name' : 'Sasuke (Japanese origin), meaning "help,',
             'ImageUrl' : '',
             'CollectionName' : 'Anime Character',
             'TokenType' : 'ERC-721',
@@ -380,7 +380,7 @@ export const MODEL_DATA = [{
             
         },
         {
-            'Name' : 'Created  Image 5',
+            'Name' : 'Taro (Japanese origin), meaning "big boy,"',
             'ImageUrl' : '',
             'CollectionName' : 'Anime Character',
             'TokenType' : 'ERC-721',
@@ -392,7 +392,7 @@ export const MODEL_DATA = [{
             
         },
         {
-            'Name' : 'Created Image 6',
+            'Name' : 'Taiki (Japanese origin), meaning "radiance"',
             'ImageUrl' : '',
             'CollectionName' : 'Anime Character',
             'TokenType' : 'ERC-721',
@@ -406,7 +406,7 @@ export const MODEL_DATA = [{
     ],
         "SaleImages" : [
             {
-                'Name' : 'Image 1',
+                'Name' : 'Souta (Japanese origin), meaning "suddenly"',
                 'ImageUrl' : '',
                 'CollectionName' : 'Anime Character',
                 'TokenType' : 'ERC-721',
@@ -419,7 +419,7 @@ export const MODEL_DATA = [{
                 
             },
             {
-                'Name' : 'Image 2',
+                'Name' : 'Shun (Japanese origin), meaning "speed,"',
                 'ImageUrl' : '',
                 'CollectionName' : 'Anime Character',
                 'TokenType' : 'ERC-721',
@@ -432,7 +432,7 @@ export const MODEL_DATA = [{
                 
             },
             {
-                'Name' : 'Image 3',
+                'Name' : ' Rio (Spanish origin), meaning "river,"',
                 'ImageUrl' : '',
                 'CollectionName' : 'Anime Character',
                 'TokenType' : 'ERC-721',
@@ -445,7 +445,7 @@ export const MODEL_DATA = [{
                 
             },
             {
-                'Name' : 'Image 4',
+                'Name' : ' Shun (Japanese origin), meaning "speed,"',
                 'ImageUrl' : '',
                 'CollectionName' : 'Anime Character',
                 'TokenType' : 'ERC-721',
@@ -458,7 +458,7 @@ export const MODEL_DATA = [{
                 
             },
             {
-                'Name' : 'Image 5',
+                'Name' : 'Migi (Japanese origin), meaning "right,"',
                 'ImageUrl' : '',
                 'CollectionName' : 'Anime Character',
                 'TokenType' : 'ERC-721',
@@ -471,7 +471,7 @@ export const MODEL_DATA = [{
                 
             },
             {
-                'Name' : 'Image 6',
+                'Name' : 'Migi (Japanese origin), meaning "right,"',
                 'ImageUrl' : '',
                 'CollectionName' : 'Anime Character',
                 'TokenType' : 'ERC-721',
