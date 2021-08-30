@@ -1,5 +1,5 @@
 export const MODEL_DATA = [{
-    'ModelName': 'Generate and Mint Anime' ,
+    'ModelName': 'Masashi: commander or general' ,
     'AlgorithmUsed' : '#BIG-GAN-SCALE-MODEL',
     'TimeLeft':'25 hours',
     'CurrentPrice':'',
@@ -162,8 +162,8 @@ export const MODEL_DATA = [{
     
 },
 {
-    'ModelName': 'Generate Abstract Images' ,
-    'AlgorithmUsed' : 'BIG GAN',
+    'ModelName': 'Composition X, 1939. ... ' ,
+    'AlgorithmUsed' : '#BIG-GAN-ABSTRACT',
     'TimeLeft':'15 min left',
     'CurrentPrice':'',
     'ModelDescription' : 'These artworks are AI-generated and represent inkblots of various shapes, colours and sizes. The textures are representations of everyday texture we see in our daily life. And are a result of treating images through Generative Art.This body of work seems like how machines can create very humanly art.',
@@ -325,8 +325,8 @@ export const MODEL_DATA = [{
 },
 
 {
-    'ModelName': 'Generate Charaacters Anime' ,
-    'AlgorithmUsed' : 'BIG GAN',
+    'ModelName': 'Katsu: victorious' ,
+    'AlgorithmUsed' : '#SAGAN-MODEL-ANIME',
     'TimeLeft':'5 min left',
     'CurrentPrice':'',
     'ModelDescription' : 'Generate Cartoon Collectibles upto 60k to generate anime characters',
@@ -487,8 +487,8 @@ export const MODEL_DATA = [{
     
 },
 {
-    'ModelName': 'Generate Abstract Images' ,
-    'AlgorithmUsed' : 'BIG GAN',
+    'ModelName': 'Composition II in Red, Blue,' ,
+    'AlgorithmUsed' : '#SRGAN-ABSTRACT',
     'TimeLeft':'50 min left',
     'CurrentPrice':'',
     'ModelDescription' : 'Generate Celebrity Collectibles upto 60k to generate anime characters',
