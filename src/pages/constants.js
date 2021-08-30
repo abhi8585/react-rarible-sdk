@@ -780,7 +780,7 @@ export const CREATED_IMAGES = [
 
 export const HOT_COLLECTION = [
     {
-        'Name' : 'Image 1',
+        'Name' : 'Sunday abstract',
         'ImageUrl' : '',
         'CollectionName' : 'Anime Character',
         'TokenType' : 'ERC-721',
@@ -792,7 +792,7 @@ export const HOT_COLLECTION = [
         
     },
     {
-        'Name' : 'Image 2',
+        'Name' : 'The Nebula',
         'ImageUrl' : '',
         'CollectionName' : 'AbstracT 1',
         'TokenType' : 'ERC-721',
@@ -806,7 +806,7 @@ export const HOT_COLLECTION = [
     },
     
     {
-        'Name' : 'Image 3',
+        'Name' : 'Musketer',
         'ImageUrl' : '',
         'CollectionName' : 'Anime Character 2',
         'TokenType' : 'ERC-721',
@@ -819,7 +819,7 @@ export const HOT_COLLECTION = [
     },
     
     {
-        'Name' : 'Image 4',
+        'Name' : 'Sanhszai Abstract',
         'ImageUrl' : '',
         'CollectionName' : 'Abstract 3',
         'TokenType' : 'ERC-721',
@@ -831,7 +831,7 @@ export const HOT_COLLECTION = [
         
     },
     {
-        'Name' : 'Image 4',
+        'Name' : 'Black with Red ',
         'ImageUrl' : '',
         'CollectionName' : 'Abstract 3',
         'TokenType' : 'ERC-721',
@@ -843,7 +843,7 @@ export const HOT_COLLECTION = [
         
     },
     {
-        'Name' : 'Image 4',
+        'Name' : 'Kitrestru shine',
         'ImageUrl' : '',
         'CollectionName' : 'Abstract 3',
         'TokenType' : 'ERC-721',
